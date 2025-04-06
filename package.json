@@ -18,6 +18,7 @@
     "clsx": "^2.1.1",
     "echarts": "^5.6.0",
     "echarts-for-react": "^3.0.2",
+    "ethers": "^6.13.5",
     "isbot": "^4.1.0",
     "mongodb": "^6.15.0",
     "motion": "^12.6.3",

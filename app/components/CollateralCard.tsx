@@ -75,7 +75,7 @@ const Collateral: React.FC<CollateralProps> = ({
         <p className="text-neutral-300">{companyDescription}</p>
         <p className="text-lg font-medium text-green-400">{loan}</p>
         <button className="mt-auto bg-white hover:bg-black text-black hover:text-white transition duration-300 px-4 py-2 rounded-lg font-medium">
-          Set Collateral
+          Repay Loan
         </button>
       </div>
     </div>
